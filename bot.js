@@ -9,13 +9,13 @@ logger.add(logger.transports.Console, {
 logger.level = 'debug';
 // Initialize Discord Bot
 var bot = new Discord.Client({
-   token: auth.token,
+   token: NjEyNzk2MjM1NjM5Njg1MTIy.XVnn-A.n2kxjv9DvF995_pcqxglIYuCHfY,
    autorun: true
 });
 bot.on('ready', function (evt) {
     logger.info('Connected');
     logger.info('Logged in as: ');
-    logger.info(bot.username + ' - (' + bot.id + ')');
+    logger.info(Jada's Bae + ' - (' + #5256 + ')');
 });
 bot.on('message', function (user, userID, channelID, message, evt) {
     // Our bot needs to know if it will execute a command
