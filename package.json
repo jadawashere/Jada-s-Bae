@@ -1,0 +1,8 @@
+{
+  "name": "greeter-bot",
+  "version": "1.0.0",
+  "description": "Bad bitch bot by a bad bitch",
+  "main": "bot.js",
+  "author": "Barbie Brazy x Jade",
+  "dependencies": {}
+}
